@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Postscript-To-PDF-Converter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Postscript-To-PDF-Converter?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Postscript-To-PDF-Converter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Postscript-To-PDF-Converter?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Postscript-To-PDF-Converter/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Postscript-To-PDF-Converter?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Postscript-To-PDF-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Postscript-To-PDF-Converter/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -85,24 +85,24 @@ Below is a detailed comparison of leading commercial SaaS products and cloud con
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source utilities form the backbone of automated document pipelines. Below is a curated, comprehensive index of open-source PostScript and PDF conversion repositories, **sorted by GitHub Star Count (descending)**.
+Open-source utilities form the backbone of automated document pipelines. Below is a curated, comprehensive index of open-source PostScript and PDF conversion repositories, **sorted by GitHub Stars_Count (descending)**.
 
-| 🏆 Rank | 📦 Project | ⭐ GitHub Stars (Social Badge) | 🔀 Stargazers Link | 📜 License | 🛠️ Core Purpose |
+| 🏆 Rank | 📦 Project | ⭐ GitHub_Stars (Social Badge) | 🔀 Stargazers Link | 📜 License | 🛠️ Core Purpose |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| **1** | [ImageMagick](https://github.com/ImageMagick/ImageMagick) | [![GitHub stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers) | [View Stargazers](https://github.com/ImageMagick/ImageMagick/stargazers) | Apache-2.0 | Swiss-army knife image & PS/EPS to PDF CLI conversion |
-| **2** | [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | [![GitHub stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers) | [View Stargazers](https://github.com/pymupdf/PyMuPDF/stargazers) | AGPL-3.0 / Commercial | High-performance Python rendering & document conversion |
-| **3** | [QPDF](https://github.com/qpdf/qpdf) | [![GitHub stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers) | [View Stargazers](https://github.com/qpdf/qpdf/stargazers) | Apache-2.0 | Post-conversion PDF structural optimization & linearization |
-| **4** | [MuPDF](https://github.com/ArtifexSoftware/mupdf) | [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf/stargazers) | [View Stargazers](https://github.com/ArtifexSoftware/mupdf/stargazers) | AGPL-3.0 / Commercial | Ultra-fast, lightweight C document and vector graphics engine |
-| **5** | [dvisvgm](https://github.com/mgieseki/dvisvgm) | [![GitHub stars](https://img.shields.io/github/stars/mgieseki/dvisvgm?style=social&color=white)](https://github.com/mgieseki/dvisvgm/stargazers) | [View Stargazers](https://github.com/mgieseki/dvisvgm/stargazers) | GPL-3.0 | Fast DVI, EPS, and PostScript vector parser & converter |
-| **6** | [Ghostscript & ps2pdf](https://github.com/ArtifexSoftware/ghostpdl) | [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers) | [View Stargazers](https://github.com/ArtifexSoftware/ghostpdl/stargazers) | AGPL-3.0 / Commercial | The foundational PostScript interpreter & `ps2pdf` engine |
-| **7** | [cups-filters](https://github.com/OpenPrinting/cups-filters) | [![GitHub stars](https://img.shields.io/github/stars/OpenPrinting/cups-filters?style=social&color=white)](https://github.com/OpenPrinting/cups-filters/stargazers) | [View Stargazers](https://github.com/OpenPrinting/cups-filters/stargazers) | Apache-2.0 / MIT | Linux/UNIX CUPS print spooling filter (`pstopdf`) |
-| **8** | [psutils](https://github.com/rrthomas/psutils) | [![GitHub stars](https://img.shields.io/github/stars/rrthomas/psutils?style=social&color=white)](https://github.com/rrthomas/psutils/stargazers) | [View Stargazers](https://github.com/rrthomas/psutils/stargazers) | GPL-3.0 | PostScript document manipulation, imposition & layout |
-| **9** | [pstoedit](https://github.com/woglu/pstoedit) | [![GitHub stars](https://img.shields.io/github/stars/woglu/pstoedit?style=social&color=white)](https://github.com/woglu/pstoedit/stargazers) | [View Stargazers](https://github.com/woglu/pstoedit/stargazers) | GPL-2.0 | PostScript and PDF translator into editable vector formats |
-| **10** | [Aspose.Page FOSS for Python](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python) | [![GitHub stars](https://img.shields.io/github/stars/aspose-page-foss/Aspose.Page-FOSS-for-Python?style=social&color=white)](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python/stargazers) | [View Stargazers](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python/stargazers) | MIT | Pure-Python PS/EPS/XPS to PDF without external C libraries |
+| **1** | [ImageMagick](https://github.com/ImageMagick/ImageMagick) | [![GitHub_Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers) | [View Stargazers](https://github.com/ImageMagick/ImageMagick/stargazers) | Apache-2.0 | Swiss-army knife image & PS/EPS to PDF CLI conversion |
+| **2** | [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | [![GitHub_Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers) | [View Stargazers](https://github.com/pymupdf/PyMuPDF/stargazers) | AGPL-3.0 / Commercial | High-performance Python rendering & document conversion |
+| **3** | [QPDF](https://github.com/qpdf/qpdf) | [![GitHub_Stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers) | [View Stargazers](https://github.com/qpdf/qpdf/stargazers) | Apache-2.0 | Post-conversion PDF structural optimization & linearization |
+| **4** | [MuPDF](https://github.com/ArtifexSoftware/mupdf) | [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf/stargazers) | [View Stargazers](https://github.com/ArtifexSoftware/mupdf/stargazers) | AGPL-3.0 / Commercial | Ultra-fast, lightweight C document and vector graphics engine |
+| **5** | [dvisvgm](https://github.com/mgieseki/dvisvgm) | [![GitHub_Stars](https://img.shields.io/github/stars/mgieseki/dvisvgm?style=social&color=white)](https://github.com/mgieseki/dvisvgm/stargazers) | [View Stargazers](https://github.com/mgieseki/dvisvgm/stargazers) | GPL-3.0 | Fast DVI, EPS, and PostScript vector parser & converter |
+| **6** | [Ghostscript & ps2pdf](https://github.com/ArtifexSoftware/ghostpdl) | [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers) | [View Stargazers](https://github.com/ArtifexSoftware/ghostpdl/stargazers) | AGPL-3.0 / Commercial | The foundational PostScript interpreter & `ps2pdf` engine |
+| **7** | [cups-filters](https://github.com/OpenPrinting/cups-filters) | [![GitHub_Stars](https://img.shields.io/github/stars/OpenPrinting/cups-filters?style=social&color=white)](https://github.com/OpenPrinting/cups-filters/stargazers) | [View Stargazers](https://github.com/OpenPrinting/cups-filters/stargazers) | Apache-2.0 / MIT | Linux/UNIX CUPS print spooling filter (`pstopdf`) |
+| **8** | [psutils](https://github.com/rrthomas/psutils) | [![GitHub_Stars](https://img.shields.io/github/stars/rrthomas/psutils?style=social&color=white)](https://github.com/rrthomas/psutils/stargazers) | [View Stargazers](https://github.com/rrthomas/psutils/stargazers) | GPL-3.0 | PostScript document manipulation, imposition & layout |
+| **9** | [pstoedit](https://github.com/woglu/pstoedit) | [![GitHub_Stars](https://img.shields.io/github/stars/woglu/pstoedit?style=social&color=white)](https://github.com/woglu/pstoedit/stargazers) | [View Stargazers](https://github.com/woglu/pstoedit/stargazers) | GPL-2.0 | PostScript and PDF translator into editable vector formats |
+| **10** | [Aspose.Page FOSS for Python](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python) | [![GitHub_Stars](https://img.shields.io/github/stars/aspose-page-foss/Aspose.Page-FOSS-for-Python?style=social&color=white)](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python/stargazers) | [View Stargazers](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python/stargazers) | MIT | Pure-Python PS/EPS/XPS to PDF without external C libraries |
 
 ---
 
-### 1. [ImageMagick](https://github.com/ImageMagick/ImageMagick) [![GitHub stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers)
+### 1. [ImageMagick](https://github.com/ImageMagick/ImageMagick) [![GitHub_Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers)
 - **Engine Overview**: The gold standard across Unix/Linux environments for image and vector document manipulation. It handles PostScript (`.ps`) and Encapsulated PostScript (`.eps`) input by delegating to Ghostscript behind the scenes and outputting clean, vectorized or rasterized PDF files.
 - **Conversion Command**:
   ```bash
@@ -113,7 +113,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 2. [PyMuPDF](https://github.com/pymupdf/PyMuPDF) [![GitHub stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)
+### 2. [PyMuPDF](https://github.com/pymupdf/PyMuPDF) [![GitHub_Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)
 - **Engine Overview**: High-performance Python bindings for MuPDF. PyMuPDF provides blazing-fast document rendering, conversion, page merging, and text/vector extraction.
 - **Conversion Command**:
   ```python
@@ -126,7 +126,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 3. [QPDF](https://github.com/qpdf/qpdf) [![GitHub stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)
+### 3. [QPDF](https://github.com/qpdf/qpdf) [![GitHub_Stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)
 - **Engine Overview**: A structural, content-preserving PDF transformation tool. While Ghostscript converts PostScript into PDF, QPDF acts as the essential post-processor to linearize (web-optimize), encrypt, decrypt, and sanitize generated PDF streams.
 - **Conversion Command**:
   ```bash
@@ -137,7 +137,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 4. [MuPDF](https://github.com/ArtifexSoftware/mupdf) [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf/stargazers)
+### 4. [MuPDF](https://github.com/ArtifexSoftware/mupdf) [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf/stargazers)
 - **Engine Overview**: Artifex's lightweight, modular C library for PDF, XPS, and graphics rendering. MuPDF features its own anti-aliased graphics renderer designed for high fidelity and embedded devices.
 - **Conversion Command**:
   ```bash
@@ -148,7 +148,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 5. [dvisvgm](https://github.com/mgieseki/dvisvgm) [![GitHub stars](https://img.shields.io/github/stars/mgieseki/dvisvgm?style=social&color=white)](https://github.com/mgieseki/dvisvgm/stargazers)
+### 5. [dvisvgm](https://github.com/mgieseki/dvisvgm) [![GitHub_Stars](https://img.shields.io/github/stars/mgieseki/dvisvgm?style=social&color=white)](https://github.com/mgieseki/dvisvgm/stargazers)
 - **Engine Overview**: A command-line utility that converts DVI, EPS, and PostScript files into clean SVG and PDF vector formats. Widely used in the TeX Live and LaTeX publishing ecosystems.
 - **Conversion Command**:
   ```bash
@@ -159,7 +159,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 6. [Ghostscript & ps2pdf (GhostPDL)](https://github.com/ArtifexSoftware/ghostpdl) [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers)
+### 6. [Ghostscript & ps2pdf (GhostPDL)](https://github.com/ArtifexSoftware/ghostpdl) [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers)
 - **Engine Overview**: The foundational, industry-standard PostScript interpreter and PDF generator in open-source. Current stable release **Ghostscript 10.08** features hardened PostScript operator isolation (`-dSAFER`), device protection, and complete Distiller parameter mappings via the `pdfwrite` device.
 - **Conversion Command**:
   ```bash
@@ -175,7 +175,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 7. [cups-filters (pstopdf)](https://github.com/OpenPrinting/cups-filters) [![GitHub stars](https://img.shields.io/github/stars/OpenPrinting/cups-filters?style=social&color=white)](https://github.com/OpenPrinting/cups-filters/stargazers)
+### 7. [cups-filters (pstopdf)](https://github.com/OpenPrinting/cups-filters) [![GitHub_Stars](https://img.shields.io/github/stars/OpenPrinting/cups-filters?style=social&color=white)](https://github.com/OpenPrinting/cups-filters/stargazers)
 - **Engine Overview**: The printing filter pipeline maintained by OpenPrinting. Contains the canonical `pstopdf` filter that processes PostScript print jobs sent to CUPS and converts them to PDF before rasterization.
 - **Conversion Command**:
   ```bash
@@ -186,7 +186,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 8. [psutils](https://github.com/rrthomas/psutils) [![GitHub stars](https://img.shields.io/github/stars/rrthomas/psutils?style=social&color=white)](https://github.com/rrthomas/psutils/stargazers)
+### 8. [psutils](https://github.com/rrthomas/psutils) [![GitHub_Stars](https://img.shields.io/github/stars/rrthomas/psutils?style=social&color=white)](https://github.com/rrthomas/psutils/stargazers)
 - **Engine Overview**: A suite of utilities for manipulating PostScript documents prior to conversion, including page selection (`psselect`), n-up imposition (`psnup`), booklet page reordering (`psbook`), and page resizing (`psresize`).
 - **Conversion Command**:
   ```bash
@@ -197,7 +197,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 9. [pstoedit](https://github.com/woglu/pstoedit) [![GitHub stars](https://img.shields.io/github/stars/woglu/pstoedit?style=social&color=white)](https://github.com/woglu/pstoedit/stargazers)
+### 9. [pstoedit](https://github.com/woglu/pstoedit) [![GitHub_Stars](https://img.shields.io/github/stars/woglu/pstoedit?style=social&color=white)](https://github.com/woglu/pstoedit/stargazers)
 - **Engine Overview**: A translator that converts PostScript and PDF graphics into various vector formats editable in drawing tools (SVG, DXF, WMF, Illustrator, and PDF vector structures).
 - **Conversion Command**:
   ```bash
@@ -208,7 +208,7 @@ Open-source utilities form the backbone of automated document pipelines. Below i
 
 ---
 
-### 10. [Aspose.Page FOSS for Python](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python) [![GitHub stars](https://img.shields.io/github/stars/aspose-page-foss/Aspose.Page-FOSS-for-Python?style=social&color=white)](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python/stargazers)
+### 10. [Aspose.Page FOSS for Python](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python) [![GitHub_Stars](https://img.shields.io/github/stars/aspose-page-foss/Aspose.Page-FOSS-for-Python?style=social&color=white)](https://github.com/aspose-page-foss/Aspose.Page-FOSS-for-Python/stargazers)
 - **Engine Overview**: A 100% pure-Python library for reading, manipulating, and converting PS, EPS, and XPS documents to PDF without external C libraries or system dependencies. Includes Model Context Protocol (MCP) tool integration.
 - **Conversion Command**:
   ```python
